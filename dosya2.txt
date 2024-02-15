@@ -1,0 +1,7 @@
+şlemci tipni al 
+ram özeliiğini al
+
+işlemci i7 se ve ram özelliği 8gb sayı
+kurulama uygun yaz
+
+değilse kuruluma uygın değildir yaz

@@ -1,0 +1,4 @@
+rastgele bir sayı al
+
+eğer sayı hem 3'e hem 5'e tam bölünüyorsa 15'e tam bölünür yaz
+değilse 15'e tam bölünmez yaz

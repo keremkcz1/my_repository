@@ -1,0 +1,7 @@
+kullanıcıdan hava sıcaklığını al
+
+girdiği sıcaklık 5 derece altındaysa soğuk
+
+6-14 derede ılık
+
+15 dereceden yüksekse sıcak de

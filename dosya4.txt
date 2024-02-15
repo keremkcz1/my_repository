@@ -1,0 +1,4 @@
+kullanıcıdan üç açı al
+bu üç açının toplamı 180 e eşitse
+üçgendir yaz
+değilse üçgen değildir yaz

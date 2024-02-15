@@ -1,0 +1,3 @@
+kullanıcıdan bavul ağırlığı iste
+eğer ağırlığı 20 den küçükse ücret gerekmiyor 
+eğer bavul ağırlığı 20 den büyükse %10 zam ekle 
